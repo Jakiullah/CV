@@ -1,0 +1,19 @@
+body{
+  background-color: #EAF6F6;
+ }
+hr{
+   border-width: 5px;
+   border-color: green;
+   width: 10%;
+   border-style: dotted none none;
+ }
+ h1{
+   color: #247881;
+   font-family: cursive;
+ }
+ h3{
+   color: #247881;
+ }
+img{
+  border-radius: 100%;
+}
